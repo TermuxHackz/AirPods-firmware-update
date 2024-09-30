@@ -64,9 +64,10 @@ If you find this bot useful, consider supporting its development:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AnonyminHack5)
 
-## 📄 License
+## 📄 License and Privacy
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Files are obfuscated for privacy reasons, contact me on discord (techcodes27) or join support server for main code without obfuscation.
 
 ---
 
