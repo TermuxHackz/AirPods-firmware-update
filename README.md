@@ -5,7 +5,6 @@
   A Discord bot for pushing notifications about new AirPods firmware updates.
 
   [![Add To Discord](https://img.shields.io/badge/Add%20To%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1288958074777767978&permissions=1126589552651504&integration_type=0&scope=bot+applications.commands) 
-  (STILL IN DEVELOPMENT BUT WORKS)
 </div>
 
 ## 🌟 Features
@@ -37,7 +36,6 @@
 - `/config role` - Configure roles for bot permissions
 - `/set_firmwarechannel [channel]` - Set the channel for firmware updates
 - `/latest_firmware` - Manually check for the latest firmware
-- `/settings set_interval [interval]` - Set the firmware check interval
 - `/view_config` - View the current bot configuration
 And More...
 
